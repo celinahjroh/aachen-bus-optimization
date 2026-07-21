@@ -1,4 +1,3 @@
-# aachen-bus-optimization
 # Optimizing Public Transport Coverage in Aachen — Cost-Aware & Equity-Conscious Bus Stop Location
 
 Seminar paper code & data — Chair of Data and Business Analytics, RWTH Aachen University.
